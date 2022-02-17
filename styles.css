@@ -1,0 +1,11 @@
+.cards-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.square {
+    height: 150px;
+    width: 150px;
+    border: 1px solid;
+}
